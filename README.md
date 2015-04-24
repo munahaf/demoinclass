@@ -1,0 +1,2 @@
+# demoinclass
+Just write something
