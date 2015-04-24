@@ -1,0 +1,3 @@
+// Pasted market.java content....
+ void main(){
+}
